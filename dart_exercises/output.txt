@@ -1,0 +1,8 @@
+Customer Name: Kweyni
+Quantity Purchased: 3
+Item Price: 49.5
+Subtotal: 148.5
+Member Discount: 10
+Total Purchase: 138.5
+Whole Number of Items: 3
+Does the purchase qualify for the discount? true
